@@ -36,4 +36,3 @@ mlruns/
 **/credentials*
 **/secrets*
 **/kaggle.json
-data/
